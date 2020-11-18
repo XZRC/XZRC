@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## I'm a shitty java programmer
+## I'm a shitty programmer
 
 - 🔭 I’m currently working on FrogWare And XHACK
 - 🌱 I’m currently learning Java and Kotlin
