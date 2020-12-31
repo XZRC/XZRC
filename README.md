@@ -5,6 +5,6 @@
 - ⚡ Did you know that XZRC is on top?
 - https://discord.gg/Tjqt7ju3Et
 
-https://forthebadge.com/images/badges/mom-made-pizza-rolls.svg
+[![forthebadge](https://forthebadge.com/images/badges/mom-made-pizza-rolls.svg)](https://forthebadge.com)
 
-https://forthebadge.com/images/badges/works-on-my-machine.svg
+[![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com)
