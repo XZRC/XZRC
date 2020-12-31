@@ -4,3 +4,4 @@
 - 🌱 I’m currently learning Java and Kotlin
 - ⚡ Did you know that XZRC is on top?
 - https://discord.gg/Tjqt7ju3Et
+[![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)](https://forthebadge.com)
