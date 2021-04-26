@@ -1,4 +1,4 @@
-# Visual designer and bad developer XZRC Here!
+# i likes to sexting woman
 
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning Java and Kotlin
